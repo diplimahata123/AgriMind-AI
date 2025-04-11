@@ -1,2 +1,2 @@
-# AgriMind-AI-AI-Powered Area-Wise Agriculture Planner
+# [AgriMind-AI]-AI-Powered Area-Wise Agriculture Planner
 AgriMind AI is a Multi-AI-Agent system that delivers smart, location-specific agriculture plans using real global soil maps(ISRIC SoilGrids) and climate data. Built with Python, numpy, langchain, LangGraph, groq api, llama-3.3-70b-versatile.The system auto-fetches and analyzes soil & weather data, then passes it through AI agents that recommend suitable crops, farming practices, and expected yields.
